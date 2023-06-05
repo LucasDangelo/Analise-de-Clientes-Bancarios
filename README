@@ -2,25 +2,25 @@
 
 Este projeto tem como objetivo analisar os dados bancários de um determinado banco de clientes de uma instituição bancária
 
-## Descrição do projeto
+# Descrição do projeto
 
 Este projeto será aplicado via Streamlit para que seja possível uma melhor visualização dos dados
 
-## Utilização
+# Utilização
 
-### Dependencias
+# Dependencias
 
 * Utiliza-se aqui blibliotecas como pandas , numpy e o próprio Streamlit
 
 
 
-### Executando o projeto
+# Executando o projeto
 
 Para acessar o projeto basta acessar o link : https://telemarketing-j900.onrender.com/
 ```
 
 
-## Ajuda
+# Ajuda
 
 Qualquer ponto importante de problemas ou erros comuns por favor enviar via mensagem para o dono deste repositório
 onde será dado uma solução ao problema encontrado , link abaixo
@@ -29,14 +29,14 @@ https://github.com/LucasDangelo/analise-de-clientes-bancarios
 
 ```
 
-## Autores
+# Autores
 
 Lucas Dangelo Loebens
 
 
 ex. [@LucasDangelo](https://github.com/LucasDangelo/)
 
-## Histórico de versões.
+# Histórico de versões.
 
 * 0.2
 	* Ajustes de diversos bugs e otimização
@@ -44,7 +44,7 @@ ex. [@LucasDangelo](https://github.com/LucasDangelo/)
     * Primeira versão
 
 
-## Fontes de inspiração
+# Fontes de inspiração
 
 Inspiração, trechos de códigos utilizados, etc.
 * [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
